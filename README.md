@@ -1,0 +1,1 @@
+# alternative-data-macro-signals-indian-equities
