@@ -1,4 +1,4 @@
-# Alternative-data-macro-signals-indian-equities
+
 # Alternative Data & Macro-Fundamental Signal Research for Indian Equities
 
 ## Overview
